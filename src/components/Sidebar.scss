@@ -1,0 +1,31 @@
+.Nav-style
+{
+background: #15171c;
+height: 80px;
+display: flex;
+justify-content: flex-end;
+}
+
+.Link-style{
+top:10;
+font-size: 2rem;
+height: 80px;
+align-items: center;
+position:absolute;
+}
+
+.sidebarNav-style
+{
+
+background: #15171c;
+width: 250px;
+height: 40vh;
+justify-content: center;
+position: fixed;
+transition: 350ms;
+z-index: 10;
+}
+
+.sidebarWrap-style{
+    width: 100%;
+}

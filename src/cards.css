@@ -1,0 +1,63 @@
+/* .card1-des{
+    position: absolute;
+    width : 25%;
+    top:20%
+}
+
+.card2-des{
+
+    position: absolute;
+    width : 25%;
+    left :15%;
+    top:20%
+
+}
+
+
+.card3-des{
+    position: absolute;
+    width : 25%;
+    left : 30%;
+    top:20%
+}
+
+
+.card4-des{
+    position: absolute;
+    width : 25%;
+    left :45%;
+    top:20%
+}
+
+
+.card5-des{
+    position: absolute;
+    width : 25%;
+    left : 60%;
+    top:20%
+}
+
+.card6-des{
+    position: absolute;
+    width : 25%;
+    left :75%;
+    top:20%
+
+} */
+
+.div-style{
+    position:absolute;
+    top:15%;
+    left:20%;
+    width:60%;
+    height:60%;
+    background: whitesmoke;
+    transition: .5s;
+    z-index: 1;
+
+}
+
+.card-style{
+    display: flex;
+    justify-content: space-between;
+} 
