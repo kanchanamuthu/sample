@@ -1,0 +1,16 @@
+.div-style{
+    position:absolute;
+    top:15%;
+    left:20%;
+    width:60%;
+    height:60%;
+    background: whitesmoke;
+    transition: .5s;
+    z-index: 1;
+
+}
+
+.card-style{
+    display: flex;
+    justify-content: space-between;
+} 

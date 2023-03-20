@@ -1,0 +1,22 @@
+.morethaneq24{
+    background-color: green;
+    color:#fff;
+    }    
+
+.lessthan24{
+    background-color: red; 
+    color:#fff;
+}
+
+.InputDivStyle{
+    background-color: #b5dcb5;
+    padding: 10px;
+}
+
+.searchStyle {
+    width:100%;
+    padding : 10px 20px;
+    border-radius: 20px;
+    border : 2px solid #0a5e34;
+    font-size: 18px;
+}
